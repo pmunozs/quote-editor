@@ -1,24 +1,6 @@
-# README
+# turbo-rails demo
+Giving my first steps using turbo-rails following the tutorial from
+https://www.hotrails.dev/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![img.png](img.png)
